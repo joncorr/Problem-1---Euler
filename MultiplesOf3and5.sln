@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOf3And5", "MultiplesOf3And5\MultiplesOf3And5.csproj", "{C654764C-7D9F-476B-901A-E426E2BF9487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOf3And5Test", "MultiplesOf3And5Test\MultiplesOf3And5Test.csproj", "{65428B4A-3D91-4ED9-820A-69B4236707C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C654764C-7D9F-476B-901A-E426E2BF9487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C654764C-7D9F-476B-901A-E426E2BF9487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C654764C-7D9F-476B-901A-E426E2BF9487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C654764C-7D9F-476B-901A-E426E2BF9487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65428B4A-3D91-4ED9-820A-69B4236707C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65428B4A-3D91-4ED9-820A-69B4236707C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65428B4A-3D91-4ED9-820A-69B4236707C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65428B4A-3D91-4ED9-820A-69B4236707C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
